@@ -1,5 +1,5 @@
 const category = 'toys';
 console.log(`яебал${category}`);
 
-const user = 'aleg';
+const user = 'aeg';
 alert(`Привет, ${user}`);
