@@ -1,0 +1,30 @@
+.test__link {
+    position: absolute;
+    left:20%;
+    background: url("img/mitim.jpg") left no-repeat;
+    width: 60%;
+    height: 585px;
+    background-position: top;
+}
+* {
+    background-color:black;
+}
+.telegram__link {
+    display: inline;
+    margin: 0 0 0 100px;
+    background-color: transparent;
+}
+.whatsapp__link {
+    display: inline;
+    margin: 130px 0 0 192px;
+    background-color: transparent;
+}
+wrap{
+    display: block;
+    height: 135px;
+    margin: 130px 0 0 192px;
+    background-color: transparent;
+}
+a {
+    text-decoration: none;
+}
